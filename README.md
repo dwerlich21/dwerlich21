@@ -1,6 +1,6 @@
 <div align="center">
 
-**[🇧🇷 Português](#-sobre-mim) · [🇺🇸 English](#-about-me)**
+**[🇧🇷 Português](#sobre-mim) · [🇺🇸 English](#about-me)**
 
 </div>
 
